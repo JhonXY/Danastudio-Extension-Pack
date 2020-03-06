@@ -1,0 +1,27 @@
+{
+  "name": "danastudio-extension-pack",
+  "displayName": "DanaStudio Extension Pack",
+  "description": "DanaStudio Dev",
+  "version": "0.4.0",
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Extension Packs"
+  ],
+  "publisher": "yuan",
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "clinyong.vscode-css-modules",
+    "dbaeumer.vscode-eslint",
+    "DiamondYuan.umi-pro",
+    "esbenp.prettier-vscode",
+    "salbert.comment-ts",
+    "stevencl.addDocComments",
+    "stylelint.vscode-stylelint",
+    "ionutvmi.path-autocomplete",
+    "Orta.vscode-jest",
+    "firsttris.vscode-jest-runner"
+  ]
+}
