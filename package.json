@@ -2,7 +2,8 @@
   "name": "danastudio-extension-pack",
   "displayName": "DanaStudio Extension Pack",
   "description": "DanaStudio Dev",
-  "version": "0.4.0",
+  "version": "0.5.0",
+  "repository": "https://github.com/JhonXY/Danastudio-Extension-Pack",
   "engines": {
     "vscode": "^1.40.0"
   },
